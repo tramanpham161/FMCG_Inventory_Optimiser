@@ -4,6 +4,8 @@ _Operational Decision Support Tool for Perishable Stock Management_
 
 A data-driven inventory management application designed for UK FMCG (Fast-Moving Consumer Goods) professionals to balance the critical trade-off between stock availability and perishable waste mitigation.
 
+Link: https://inventory-optimiser.streamlit.app
+
 **The Problem**
 In the UK food and drink sector, managing "Fresh" categories (like meat, dairy or produce) is a high-stakes balancing act.
 - Over-ordering leads to massive financial losses through food waste (spoilage).
